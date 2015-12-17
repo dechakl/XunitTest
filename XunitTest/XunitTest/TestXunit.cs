@@ -16,5 +16,12 @@ namespace XunitTest
             var a = 4;
             Assert.Equal(4, a);
         }
+
+        [Fact]
+        public void Yessss()
+        {
+            var a = 5;
+            Assert.Equal(5, a);
+        }
     }
 }

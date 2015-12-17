@@ -18,3 +18,4 @@ E:\MyDoc\GitHub\XunitTest\XunitTest\XunitTest\bin\Debug\EntityFramework.xml
 E:\MyDoc\GitHub\XunitTest\XunitTest\XunitTest\bin\Debug\EntityFramework.SqlServer.xml
 E:\MyDoc\GitHub\XunitTest\XunitTest\XunitTest\bin\Debug\xunit.runner.visualstudio.testadapter.dll
 E:\MyDoc\GitHub\XunitTest\XunitTest\XunitTest\bin\Debug\xunit.runner.utility.desktop.dll
+E:\MyDoc\GitHub\XunitTest\XunitTest\XunitTest\bin\Debug\xunit.runner.reporters.desktop.dll
